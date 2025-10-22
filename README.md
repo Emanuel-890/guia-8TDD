@@ -27,14 +27,5 @@ Things you may want to cover:
 ## Capturas de pantalla
 
 ### Home
-![Home](screenshots/home.png)
 
-### Help
-![Help](screenshots/help.png)
-
-### About
-![About](screenshots/about.png)
-
-### Contact
-![Contact](screenshots/contact.png)
 
