@@ -24,8 +24,6 @@ Things you may want to cover:
 * ...
 # Sample App Rails TDD
 
-## Capturas de pantalla
 
-### Home
 
 
